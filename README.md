@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sudhanva
 - 👀 I’m interested in competitive programming and machine learning
-- ✈️: I work on data science and ML related projects in my free time 
+- ✈️ I work on data science and ML-related projects in my free time 
 - 🌱 I’m currently learning C++ and Python.
 - 📫 How to reach me: bmsv245@gmail.com
