@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Sudhanva
-- 👀 I’m interested in machine learning and competitive programming
-- ✈️ I work on data science and ML-related projects in my free time 
-- 🌱 Currently building end-to-end fullstack+GenAI projects
-- My key interests lie in exploring deep-learning architectures, and optimizations
-- 📫 Feel free to reach me at: sudhanvabharadwaj1729@gmail.com
+
